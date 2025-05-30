@@ -7,4 +7,4 @@
 3. Open Cmd by clicking on the bar and typing 'cmd' in the explorer address  
 4. Type ``` python <filename.extension> ```  
 
-## Step by Step tutorial will be given latetr
+## Step by Step tutorial will be given later
