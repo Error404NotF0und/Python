@@ -5,4 +5,4 @@
 1. Download file to a seperate folder
 2. Go to that Folder 
 3. Open Cmd by clicking on the bar and typing 'cmd' in the explorer address
-4. Type 'python <filename.extension>'
+4. Type ' python <filename.extension> '
